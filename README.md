@@ -12,5 +12,15 @@ This repository contains my Power BI projects and practice work. I’ve worked w
 
 - **Retail Store Sales Dashboard**
 - **UPI Transactions Dashboard**
+- **Insurance Feedback Data**
 
-Both projects demonstrate the use of DAX, slicers, custom visuals, and Power Query transformations.
+These projects demonstrate the use of DAX, slicers, custom visuals, and Power Query transformations.
+
+<img width="1336" height="752" alt="powerbi -1" src="https://github.com/user-attachments/assets/63b82553-4acb-4c1e-9cbd-300415d533d3" />
+
+
+<img width="1304" height="771" alt="powerbi-2" src="https://github.com/user-attachments/assets/f5ba7345-db10-40a8-a636-de101e262094" />
+
+
+<img width="1447" height="753" alt="powerbi-3" src="https://github.com/user-attachments/assets/b6309915-1c23-4d38-91ee-a8348967143a" />
+
